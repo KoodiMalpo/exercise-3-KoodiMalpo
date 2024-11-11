@@ -8,3 +8,5 @@ The exercise for this week is meant to:
 ## Start working on the exercise (20 points)
 
 Start your assignment [here](Exercise-3.ipynb).
+
+exercise 3 geopython
